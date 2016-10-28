@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Wechat\\": "src/Wechat"
+      "Wechat001\\": "src/Wechat"
     }
   }
 }

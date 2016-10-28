@@ -1,5 +1,5 @@
 <?php
-namespace Wechat\Facades;
+namespace Wechat001\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
