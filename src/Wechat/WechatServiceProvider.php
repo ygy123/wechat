@@ -1,5 +1,5 @@
 <?php
-namespace Wechat001;
+namespace Wechat;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider;
